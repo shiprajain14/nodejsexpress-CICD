@@ -1,2 +1,2 @@
-ibmcloud target -r <'region'>
-d
+ibmcloud target -r '<region>'
+
