@@ -1,0 +1,1 @@
+'ibmcloud target -r <region>'
